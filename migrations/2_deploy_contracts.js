@@ -5,3 +5,4 @@ module.exports = function(deployer) {
   //deployer.deploy(SimpleBank);
   deployer.deploy(SupplyChain);
 };
+ 
